@@ -1,0 +1,1030 @@
+CÓDIGO PENAL DO ESTADO DE SAN ANDREAS
+	Annabelle B. Warren
+Department of Justice
+	
+
+	P.O Box 30158
+Los Santos FAA District Office
+777 S. Aviation Boulevard, El Segundo 
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+CÓDIGO PENAL
+
+
+DO
+
+
+ESTADO DE SAN ANDREAS
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edição 1/2024 - rev.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(( Uso exclusivo do Liberty Roleplay ))
+________________
+Índice
+
+
+TÍTULO 0. DAS INFORMAÇÕES DESTE CÓDIGO        3
+TÍTULO 1. DOS CRIMES CONTRA O ESTADO        5
+TÍTULO 2. DOS CRIMES CONTRA A PAZ        10
+TÍTULO 3. DOS CRIMES CONTRA A PESSOA        13
+TÍTULO 4. DOS CRIMES CONTRA A PROPRIEDADE        17
+TÍTULO 5. DOS CRIMES CONTRA A DECÊNCIA PÚBLICA        20
+TÍTULO 6. DOS CRIMES CONTRA A SAÚDE E SEGURANÇA PÚBLICA        23
+TÍTULO 7. DAS VIOLAÇÕES DE TRÂNSITO        28
+TÍTULO 8. DA POLÍTICA DE CÓDIGO        35
+________________
+
+
+TÍTULO 0. DAS INFORMAÇÕES DESTE CÓDIGO
+(0)01. Informações Gerais
+1. Este documento deve ser reconhecido como o Código Penal, aplicável em todo o território do Estado de San Andreas, com efeito a partir da sua publicação.
+2. A lei posterior não se aplica aos fatos anteriores.
+3. O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa.
+4. A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe a quem tenha por lei obrigação de cuidado, proteção ou vigilância ou, de outra forma, assumiu a responsabilidade de impedir o resultado ou, ainda, com seu comportamento anterior, criou o risco da ocorrência do resultado. 
+5. Considera-se o crime consumado quando nele se reúnem todos os elementos de sua definição legal.
+6. Considera-se o crime tentado quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente, punido com a metade da pena mínima correspondente ao crime consumado.
+7. O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, só responde pelos atos já praticados.
+8. Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime.
+9. Considera-se crime doloso quando o agente quis o resultado ou assumiu o risco de produzi-lo.
+10. Considera-se o crime culposo quando o agente deu causa ao resultado por imprudência, negligência ou imperícia, punido com a metade da pena mínima correspondente ao crime doloso.
+
+
+(0)02. Definições
+1. O termo "Pessoa" refere-se a qualquer ser humano.
+2. O termo "Civil" refere-se a qualquer indivíduo que não seja um oficial de polícia.
+3. O termo “Oficial da Lei” e “Oficial da Paz” refere-se a um indivíduo que é, através de um distintivo, identificado como um oficial de aplicação da lei. Espera-se que a polícia mantenha uma política interna apropriada para distinguir quando um oficial está de plantão, roupas simples e outros estados além de um oficial tipicamente uniformizado.
+4. O termo “Funcionário governamental” refere-se a qualquer funcionário público em trabalho em estado, cidade ou agência federal.
+5. O termo "arma" refere-se a qualquer objeto, ferramenta ou item, seja ou não regulamentado ou fabricado, que uma pessoa utiliza ou pretende usar para ameaçar ou causar dano.
+6. ((A idade, o sexo ou o estado mental do seu personagem não tem influência no local de prisão ou tempo de prisão, para fins de equidade OOC entre os jogadores. ICly você de fato será enviado para o local apropriado para sua saúde e segurança pessoal. As crianças devem presumir que estão em um reformatório infanto-juvenil.))
+
+
+(0)03. Do Entendimento Legal
+1. Não há ilegalidade na filmagem ou fotografia em locais públicos, salvo se estas colocarem pessoas em perigo ou se revelarem informações sensíveis: placas de veículos, documentos de identificação e endereços completos, os quais devem ser censurados das filmagens ou fotografias.
+2. Indivíduo em fuga que adentre residência própria ou de outrem poderá ser perseguido até o seu interior sem mandado específico. Admite-se a apreensão de ilícitos sem mandado desde que estejam visíveis e no local onde o indivíduo é neutralizado.
+3. Considera-se em flagrante delito quem está cometendo a infração penal ou acabou de cometê-la; quem é perseguido, logo após, pela autoridade, pelo ofendido ou por qualquer pessoa, em situação que faça presumir ser autor da infração penal; quem é encontrado, logo após a infração penal, com instrumentos, objetos ou papéis que façam presumir ser ele o autor da infração penal, sendo imprescindível, nesta última hipótese, fortes indícios de autoria e materialidade do delito.
+4. Entende-se por materialidade a existência de elementos físicos que constatem o delito, ou seja, a comprovação da efetiva ocorrência do crime, exemplo: exame pericial, atestado de óbito que indique a causa mortis, vídeos, objetos usados no crime e outros. A autoria, por sua vez, é comprovada com os elementos que ligam o suspeito como sendo autor de determinada infração penal, exemplo: reconhecimento facial, descrições, testemunha que presenciou a infração e pode afirmar quem seja o suspeito e outros.
+5. Ainda que não esteja sob custódia ou com sua liberdade de locomoção restringida, deverão ser lidos os Direitos de Miranda sempre que forem realizadas indagações acerca de um fato criminoso e que possam resultar em responsabilização criminal.
+6. Prisão por Cidadãos (Citizen’s Arrest)
+   1. Todo cidadão de San Andreas tem o direito de efetuar uma prisão caso testemunhe diretamente um crime sendo cometido.
+   2. A prisão por cidadãos deve ser realizada com a mínima força necessária para conter o suspeito até a chegada das autoridades competentes.
+   3. É de responsabilidade do cidadão que efetuou a prisão por cidadãos entregar o suspeito às autoridades policiais mais próximas o mais rápido possível, sem reter o indivíduo por tempo excessivo ou utilizar métodos de detenção desproporcionais ao crime cometido.
+   4. A detenção indevida, o uso excessivo de força ou a prisão sem evidências claras do crime podem resultar em ações legais contra o cidadão responsável pela prisão por cidadãos.
+
+
+________________
+
+
+TÍTULO 1. DOS CRIMES CONTRA O ESTADO
+(1)01. Traição
+Constitui um crime sujeito a sentença determinada exclusivamente por um tribunal federal.
+1. O ato de declarar guerra contra os Estados Unidos ou aliar-se aos seus inimigos, fornecendo-lhes ajuda e/ou conforto, tanto dentro dos Estados Unidos como em qualquer outro lugar, em detrimento da lealdade para com o país.
+
+
+(1)02. Espionagem
+Constitui um crime sujeito a sentença determinada exclusivamente por um tribunal federal.
+1. A prática intencional, ou sua tentativa, de obter, transmitir ou divulgar informações confidenciais que comprometam a segurança do Estado, sejam dados de defesa, instalações de saúde ou inteligência de comunicações dos Estados Unidos.
+2. Engajar-se em atividades de coleta de dados sensíveis, seja por meio eletrônico, humano ou outros meios, com a finalidade de prejudicar os interesses do Estado.
+
+
+(1)03. Terrorismo Doméstico
+Constitui um crime sujeito a sentença determinada exclusivamente por um tribunal federal.
+1. Aquele que, com a intenção de amedrontar ou pressionar uma população civil, influenciar a política de um governo ou qualquer parte dele, ou afetar o comportamento de uma unidade governamental, praticar ou tentar cometer um ato criminoso que resultaria em ferimentos graves, lesões corporais ou morte.
+2. Qualquer pessoa que, de forma voluntária, faça ameaças de cometer um crime que resultaria em sérias lesões corporais ou morte de outra pessoa, com o objetivo de intimidar ou pressionar uma população civil, independentemente da intenção de realmente executar o ato.
+________________
+(1)04. Sonegação Tributária
+Constitui um crime sujeito a uma sentença de 20 a 50 minutos de prisão, além de multa no valor de US$10.000.
+1. Uma pessoa, de forma consciente e dentro do prazo legal, deixar de realizar, assinar, ratificar ou arquivar qualquer declaração exigida pelo estado, cidade, suas subdivisões ou qualquer órgão público.
+2. Uma pessoa, com a intenção de evitar o pagamento de impostos, fornecer, apresentar, assinar ou verificar qualquer declaração falsa ou fraudulenta perante o estado, cidade, suas subdivisões ou qualquer órgão público.
+3. Uma pessoa que exerce uma atividade licenciada sem possuir uma licença válida, assim como realizar quaisquer operações subsequentes que resultem na sonegação de impostos ao estado, cidade, suas subdivisões ou qualquer órgão público.
+4. Multas devem ser pagas em até 120 horas (5 dias).
+
+
+(1)05. Contrafação de Moeda
+Constitui um crime, com sentença específica para variantes da violação.
+1. A reprodução ilegítima e completa de moeda genuína levada a cabo por meios de cunhagem ou moldagem com a intenção de a colocar em circulação.
+2. Qualquer pessoa que, sabendo que uma propriedade ou instrumentos monetários representam o produto de uma conduta criminosa, ou da venda criminosa de uma substância ou armas controladas, ou de um ato de terrorismo, realiza tais transações financeiras envolvendo tais produtos ou transporta, transmite ou transfere tais instrumentos monetários com a intenção de promover a prática de conduta criminosa, sabendo que tais transações, no todo ou em parte, são destinadas a ocultar ou disfarçar a natureza, a localização, a fonte, a propriedade ou o controle dos produtos da conduta criminosa, ou evitar qualquer exigência de relatório de transação imposta por lei.
+(1)05-A. Quando o valor total da propriedade envolvida em tais transações financeiras não exceder US$10.000, está sujeito a uma sentença de 20 a 40 minutos de prisão.
+(1)05-B. Quando o valor total da propriedade envolvida em tais transações financeiras exceder US$10.000, está sujeito a uma sentença de 30 a 50 minutos de prisão.
+(1)05-C. Quando o valor total da propriedade envolvida em tais transações financeiras exceder US$100.000, está sujeito a uma sentença de 60 a 100 minutos de prisão.
+(1)05-D. Quando o valor total da propriedade envolvida em tais transações financeiras exceder US$500.000, está sujeito a uma sentença de 80 a 120 minutos de prisão.
+(1)05-E. Quando o valor total da propriedade envolvida em tais transações financeiras exceder US$1.000.000, está sujeito a uma sentença de 120 a 160 minutos de prisão.
+
+
+________________
+(1)06. Fraude Eleitoral
+Constitui um crime sujeito a uma sentença de 20 a 50 minutos de prisão, além de multa no valor de US$15.000.
+1. Qualquer pessoa que tente manipular votos adicionando, subtraindo ou excluindo-os, ou falsificando os resultados de uma eleição, ou ainda influenciar indevidamente a votação através de coerção, persuasão, promessas, subornos, ameaças, violência, fraude ou trapaça.
+
+
+(1)07. Corrupção no Cargo Público
+Constitui um crime sujeito a uma sentença de 20 a 70 minutos de prisão.
+1. Qualquer pessoa que, estando empregada por uma agência municipal, distrital ou estadual, ou agindo em conluio com um funcionário público, atue com a intenção de fraudar o governo ou qualquer parte dele para obter propriedade, serviços, recursos ou tratamento preferencial por meio de declarações falsas ou fraudulentas.
+
+
+(1)08 Prevaricação
+Constitui um crime sujeito a uma sentença de 30 a 60 minutos de prisão.
+1. Qualquer pessoa que, estando empregada por uma agência municipal, distrital ou estadual, organização ou qualquer outro órgão governamental, intencionalmente ou por negligência, deixe de cumprir um dever imposto por lei ou claramente inerente à natureza de seu cargo, resultando em deterioração da segurança pública, risco de dano físico, lesão física real ou violação deste código.
+
+
+(1)09. Suborno de um Funcionário Público
+Constitui um crime sujeito a uma sentença de 10 a 60 minutos de prisão.
+1. Qualquer pessoa que ofereça ou concorde em dar dinheiro, bens, serviços, benefícios ou qualquer coisa de valor a um funcionário público para influenciar indevidamente sua ação oficial, opinião, julgamento, decisão ou exercício de discricionariedade.
+
+
+(1)10. Manipulação de Evidências
+Constitui um crime sujeito a uma sentença de 10 a 40 minutos de prisão.
+1. Qualquer pessoa que deliberadamente modificar, alterar, fabricar, plantar, destruir, danificar, ocultar ou mover qualquer coisa usada como prova, com a intenção de impedir, enganar ou dificultar um processo legal ou de outra forma criar um efeito enganoso nesse processo.
+
+
+________________
+(1)11. Desacato ao Tribunal
+Constitui uma contravenção sujeita a uma sentença de 40 a 80 minutos de prisão ou multa no valor de US$20.000.
+1. Qualquer pessoa cujo comportamento desordenado, desdenhoso ou insolente, praticado durante o funcionamento de um tribunal, na presença imediata do tribunal, contribua diretamente para interromper os procedimentos ou prejudicar o respeito devido à sua autoridade.
+2. Qualquer pessoa que, perturbando o sossego, causando barulho ou qualquer outra forma de perturbação, tente diretamente interromper os trabalhos do tribunal.
+3. Qualquer pessoa que deliberadamente desobedeça ou resista a um processo legal ou a uma ordem judicial, incluindo intimações, violações de liberdade condicional e violações de ordens judiciais.
+4. Qualquer pessoa que conscientemente publique um relato falso ou grosseiramente inexato sobre os procedimentos de um tribunal.
+5. Qualquer pessoa que se recuse a pagar multas criminais ou cíveis ou não as pague mesmo após ter sido concedido um plano de pagamento.
+(1)12. Perjúrio
+Constitui um crime sujeito a uma sentença de 30 a 80 minutos de prisão.
+1. Qualquer pessoa que, tendo feito um juramento de testemunhar, declarar, depor ou certificar a verdade perante qualquer tribunal competente, oficial ou em um tribunal em sessão, intencionalmente e contrariando o juramento, declare como verdadeiro qualquer assunto material que sabe ser falso.
+2. Qualquer pessoa que, por meio de declaração escrita ou falada, intencionalmente forneça informações falsas, incompletas ou intencionalmente inexatas, com a intenção de enganar ou atrasar qualquer processo judicial.
+3. Nenhuma pessoa será condenada por perjúrio quando a prova da falsidade se basear apenas na contradição do depoimento de uma única pessoa que não seja o réu. A prova da falsidade pode ser estabelecida por evidência direta ou indireta, 
+
+
+(1)13. Obstrução de Justiça
+Constitui um crime sujeito a uma sentença de 10 a 40 minutos de prisão.
+1. Qualquer pessoa que, por meio de intimidação, uso de força física ou através de um ato ilegal intencional, obstrua, prejudique ou corrompa deliberadamente a administração da justiça pública ou qualquer outra função governamental, ou tente impedir um funcionário público de cumprir sua função oficial com a intenção de causar danos.
+2. Qualquer pessoa que, de forma dolosa e maliciosa, e sem justificativa legal, interfira ou obstrua o trabalho de um animal utilizado por um oficial da paz no cumprimento ou na tentativa de cumprimento de suas funções, assustando, provocando, agitando, assediando ou impedindo o animal.
+
+
+
+
+
+
+(1)14. Lavagem de Dinheiro
+Constitui um crime sujeito a uma sentença de 30 a 120 minutos de prisão, além de multa de dez por cento (10%) do dinheiro lavado.
+1. Uma pessoa que possui, oculta, transfere, recebe ou mantém armazenamento de fundos obtidos por meio de atividades criminosas.
+2. Uma pessoa que pretende transferir, ocultar ou circular fundos obtidos por meio de atividades criminosas.
+3. Uma pessoa que mantém um estabelecimento com objetivo de lavar fundos obtidos por meio de atividades criminosas.
+4. Esta acusação só pode ser deflagrada pelo Procurador Geral ou por um mandado do Chefe de Justiça.
+________________
+
+
+TÍTULO 2. DOS CRIMES CONTRA A PAZ
+(2)01. Incitação ao Tumulto
+Constitui uma contravenção sujeita a uma sentença de 20 a 80 minutos de prisão.
+1. Qualquer pessoa que, com a intenção de causar tumulto, envolva-se em conduta tumultuosa ou violenta que incite um tumulto ou incite outros a cometer atos de violência, força ou destruição de propriedade em circunstâncias que gerem alarme público.
+2. Qualquer pessoa que se recuse a dispersar ou deixar um estabelecimento ou área pública sem possuir uma licença válida e após ser ordenada a sair por autoridade legal.
+3. Qualquer pessoa que se reúna com duas ou mais pessoas para se envolver ou se preparar para se envolver em conduta violenta, barulhenta ou tumultuosa que possa causar alarme público.
+
+
+(2)02. Intimidação de Testemunha ou Vítima
+Constitui um crime sujeito a uma sentença de 20 a 50 minutos de prisão.
+1. Qualquer pessoa que, consciente e maliciosamente, impeça, dissuada ou tente impedir que uma testemunha ou vítima compareça ou preste depoimento em qualquer processo judicial ou inquérito, ou faça uma denúncia que possa levar a uma ação criminal.
+
+
+(2)03. Fuga da Custódia Legal
+Constitui um crime sujeito a uma sentença de 20 a 90 minutos de prisão.
+1. Qualquer pessoa que esteja presa, detida, acusada ou condenada por um crime e que, posteriormente, escape de uma prisão municipal ou do condado, centro de detenção, serviço comunitário ou da custódia de um agente penitenciário responsável por sua guarda.
+
+
+(2)04. Evasão de um Oficial de Paz
+Constitui um crime sujeito a uma sentença de 10 a 50 minutos de prisão, suspensão da licença por 70 minutos, multa de US$200 e apreensão do veículo por 10 minutos
+1. Qualquer pessoa que, ao dirigir um veículo motorizado, andar de bicicleta ou de outra forma, tente intencionalmente escapar ou evadir-se de um oficial de paz.
+2. Aplica-se à pessoa e não ao veículo. Portanto, se a evasão ocorrer em um veículo diferente, o veículo usado na última infração poderá ser apreendido. Se o veículo pertencer a outra pessoa, cabe a ela provar que o veículo foi roubado para recuperá-lo. Os veículos também podem ser desmontados se não estiverem registrados.
+
+
+________________
+(2)05. Resistência
+Constitui uma contravenção sujeita a uma sentença de 15 a 90 minutos de prisão.
+1. Qualquer pessoa que intencionalmente atrasar, evitar, obstruir ou tentar impedir que um oficial de paz realize sua prisão.
+(2)06. Uso Indevido de Canal de Emergência
+Constitui uma contravenção sujeita a uma sentença de 15 a 90 minutos de prisão e multa de US$200.
+1. Qualquer pessoa que use uma linha direta do governo, destinada a assistência emergencial ou não emergencial, com o propósito de entrar em contato com o governo por uma preocupação legítima ou solicitar assistência imediata, para fins diferentes, como realizar trotes, fazer piadas ou causar distrações.
+
+
+(2)07. Falsidade Ideológica
+Constitui uma contravenção, com sentença específica para variantes da violação.
+1. Qualquer pessoa que se faça passar por outra pessoa.
+
+
+(2)07-A. Qualquer pessoa que se faça passar por outra pessoa, finja ser representante de alguém ou de uma organização, ou se apresenta como outra pessoa por meio de comunicação por meio da internet ou meios eletrônicos, com a intenção de obter benefícios ou causar prejuízos ou fraudes a outra pessoa, está sujeita a uma sentença de 20 a 100 minutos de prisão.
+(2)07-B. Qualquer pessoa que se faça passar por funcionário público, use ou exiba sem autorização um uniforme, distintivo ou insígnia que legalmente identifique um funcionário público, ou declarar falsamente, por palavras ou ações, ser um funcionário público, agindo com a intenção de induzir outra pessoa a se submeter à sua pretensa autoridade oficial, está sujeita a uma sentença de 40 a 100 minutos de prisão, além de multa de US$10.000.
+
+
+(2)08. Agressão a um Agente do Governo
+Constitui um crime sujeito a uma sentença de 20 a 90 minutos de prisão.
+1. Qualquer pessoa que tente ferir, mutilar ou de qualquer outra forma prejudicar um membro do governo durante o desempenho de suas funções oficiais.
+
+
+(2)09. Falsificação
+Constitui uma contravenção sujeita a uma sentença de 30 a 90 minutos de prisão.
+1. Qualquer pessoa que, conscientemente, crie, complete ou altere um documento escrito com a intenção de fraudar, enganar ou prejudicar outra pessoa.
+
+
+________________
+(2)10. Fraude
+Constitui uma contravenção sujeita a uma sentença de 30 a 90 minutos de prisão, além de multa de US$10.000.
+1. Qualquer pessoa que, conscientemente, engane, defraude, ludibrie ou engane outra pessoa por meio de representações falsas, ocultação de fatos relevantes, manipulação de informações, falsificação de documentos ou qualquer outro meio fraudulento, com o objetivo de obter benefícios financeiros, bens materiais ou vantagens pessoais indevidas.
+2. Qualquer pessoa que, conscientemente, participe de um esquema fraudulento organizado ou conspiração para defraudar outra pessoa ou entidade.
+
+
+(2)11. Perturbação da Paz
+Constitui uma contravenção sujeita a uma sentença de 10 a 40 minutos de prisão, além de multa de US$2.500.
+1. Qualquer pessoa que, de forma indecente, cause perturbação através de música alta, palavras ofensivas ou vulgares, ou qualquer conduta que perturbe as atividades ou a tranquilidade da comunidade.
+
+
+(2)12. Extorsão
+Constitui um crime sujeito a uma sentença de 15 a 90 minutos de prisão.
+1. É ilegal para qualquer pessoa, grupo ou organização conscientemente se envolver, participar ou conspirar para se envolver em um padrão de atividade de extorsão, incluindo a cobrança de uma dívida ilegal, em benefício de uma empresa, associação ou emprego.
+2. É ilegal para qualquer pessoa, através de um padrão de atividade de extorsão ou cobrança de dívida ilegal, adquirir ou manter direta ou indiretamente qualquer participação ou controle em uma empresa que esteja envolvida, ou cujas atividades afetem, atividades comerciais.
+________________
+
+
+TÍTULO 3. DOS CRIMES CONTRA A PESSOA
+(3)01. Homicídio Capital
+Constitui um crime sujeito a uma sentença de 20 a 120 minutos de prisão.
+1. Qualquer indivíduo que intencionalmente tire a vida de um policial, bombeiro, paramédico, promotor, juiz, jurado ou outro funcionário eleito no desempenho de suas funções, ou qualquer testemunha em um processo criminal.
+2. Qualquer pessoa que cometa homicídio em primeiro ou segundo grau de maneira particularmente odiosa, brutal ou cruel, demonstrando uma perversidade excepcional, ou qualquer homicídio resultante de um contrato de assassinato.
+3. Qualquer pessoa que intencionalmente mate mais de uma pessoa, seguindo um padrão ou comportamento consistente.
+
+
+(3)02. Homicídio Culposo
+Constitui um crime sujeito a uma sentença de 10 a 60 minutos de prisão.
+1. Qualquer pessoa que esteja envolvida na morte não intencional de outra pessoa, sem malícia, seja durante uma briga súbita, por paixão intensa ou qualquer pessoa que cause intencionalmente a morte de outra pessoa sob uma crença irracional de que o uso letal da força é necessário (defesa própria incorreta).
+
+
+(3)03. Homicídio Doloso
+Constitui um crime sujeito a uma sentença de 15 a 60 minutos de prisão.
+1. Qualquer pessoa que esteja envolvida na morte intencional de outra pessoa, e age com a intenção de causar sua morte.
+
+
+(3)04. Ameaça de Lesão
+Constitui uma contravenção sujeita a uma sentença de 5 a 20 minutos de prisão
+1. Qualquer pessoa que tente cometer ilegalmente qualquer forma de violência física contra outra pessoa ou tente criar um sentimento razoável de medo de ferimentos físicos.
+
+
+(3)05. Agressão com Arma Mortal
+Constitui um crime sujeito a uma sentença de 5 a 80 minutos de prisão.
+1. Qualquer pessoa que tente cometer uma lesão violenta em outra pessoa enquanto estiver portando uma arma letal ou qualquer outro instrumento com possibilidade de infligir dano físico.
+________________
+(3)06. Lesão Corporal Leve
+Constitui uma contravenção sujeita a uma sentença de 10 a 70 minutos de prisão
+1. Refere-se a qualquer indivíduo que intencionalmente e ilegalmente utilize força física sobre outra pessoa, causando lesões corporais leves, sem risco iminente de morte.
+
+
+(3)07. Lesão Corporal Grave
+Constitui um crime sujeito a uma sentença de 20 a 60 minutos de prisão.
+1. Diz respeito a qualquer indivíduo que intencionalmente e ilegalmente utilize força física sobre outra pessoa, resultando em lesões corporais graves, com acometimento de órgãos vitais.
+
+
+(3)08. Sequestro
+Constitui um crime sujeito a uma sentença de 30 a 120 minutos de prisão.
+1. Refere-se a qualquer pessoa que, de forma forçada ou por meio de ameaça, roube, tome, detenha ou prenda ilegalmente outra pessoa com a intenção de levá-la para outro país, estado, município ou parte do mesmo condado ou cidade.
+
+
+(3)09. Tráfico de Pessoas
+Constitui um crime sujeito a uma sentença de 60 a 180 minutos de prisão.
+1. Refere-se a qualquer pessoa que, por meio de coerção, violência, força ou outros meios ilícitos, priva alguém de sua liberdade pessoal com a intenção de explorar trabalho forçado ou serviços, ou com a intenção de violar as leis de prostituição e exploração sexual em San Andreas.
+
+
+(3)10. Cárcere
+Constitui uma contravenção sujeita a uma sentença de 20 a 70 minutos de prisão
+1. Diz respeito a qualquer pessoa que, por meio de força ou ameaça, detenha ou prenda ilegalmente outra pessoa.
+
+
+(3)11. Tortura
+Constitui um crime sujeito a uma sentença de 90 a 200 minutos de prisão.
+1. Refere-se a qualquer pessoa que, com a intenção de causar dor e sofrimento cruel ou extremo por vingança, extorsão, persuasão ou qualquer propósito sádico, cause grave lesão corporal a outra pessoa.
+
+
+________________
+(3)12. Ameaça Criminosa
+Constitui uma contravenção sujeita a uma sentença de 10 a 60 minutos de prisão
+1. Qualquer pessoa que ameace deliberadamente cometer um crime que razoavelmente possa resultar em morte ou lesão corporal a outra pessoa, seja por meio de palavras, por escrito ou por dispositivos de comunicação eletrônica.
+
+
+(3)13. Roubo
+Constitui um crime sujeito a uma sentença de 10 a 30 minutos de prisão.
+1. Refere-se a qualquer pessoa que cometa apropriação ilegal de bens pessoais de outra pessoa, contra a vontade dela e em sua posse imediata, utilizando força ou ameaça. 
+
+
+(3)14. Roubo Armado
+Constitui um crime sujeito a uma sentença de 20 a 60 minutos de prisão.
+1. Qualquer pessoa que, ilegalmente, se aproprie de bens pessoais de outra pessoa ou em sua posse imediata, utilizando força ou ameaça com o uso de uma arma perigosa ou qualquer tipo de arma, seja improvisada ou não. 
+
+
+(3)15. Estupro
+Constitui um crime sujeito a uma sentença de 60 a 120 minutos de prisão.
+1. Qualquer pessoa que se envolve em um ato sexual realizado sem o consentimento das partes envolvidas.
+
+
+(3)16. Estupro de Vulnerável
+Constitui um crime sujeito a uma sentença de 60 a 120 minutos de prisão.
+1. Qualquer pessoa que pratique ato sexual consensual com um indivíduo menor de 18 anos ou legalmente considerado dependente do estado.
+(( Este crime é mencionado apenas para fins informativos e interpretativos como background para histórias de personagens, ele não é permitido no servidor, sem possibilidade de interpretação de papéis. ))
+
+
+(3)17. Assédio Sexual
+Constitui um crime sujeito a uma sentença de 20 a 60 minutos de prisão.
+1. Qualquer pessoa que toque uma parte íntima do corpo de outra pessoa contra a vontade dela, com o propósito de excitação sexual, gratificação sexual ou abuso sexual.
+
+
+________________
+(3)18. Assédio
+Constitui uma contravenção sujeita a uma sentença de 20 a 120 minutos de prisão.
+1. Qualquer pessoa que se envolve em um padrão de comportamento ou atos repetidos direcionados a uma pessoa específica, que causem alarme ou angústia significativa a essa pessoa e não tenham propósito legítimo, mesmo após receber uma comunicação verbal ou escrita para parar. Se não for possível a comunicação escrita ou verbal, a intenção criminosa deve ser estabelecida. 
+
+
+(3)19. Violência Doméstica
+Constitui uma contravenção sujeita a uma sentença de 20 a 80 minutos de prisão.
+1. Refere-se a qualquer pessoa que se envolve em um padrão de comportamento ou atos repetidos direcionados a uma pessoa específica, que causem alarme significativo a essa pessoa e não tenham propósito legítimo, mesmo após receber uma advertência verbal ou escrita para parar. Se não for possível a advertência escrita ou verbal, a intenção criminosa deve ser considerada.
+
+
+(3)20. Vilipêndio a Cadáver
+Constitui um crime sujeito a uma sentença de 20 a 120 minutos de prisão.
+1. Vilipendiar, mutilar, danificar, desrespeitar, expor à terceiros pessoalmente ou de maneira midiática através de fotografias ou vídeos cadáveres humanos e animais ou suas partes, como membros ou cinzas.
+________________
+
+
+TÍTULO 4. DOS CRIMES CONTRA A PROPRIEDADE
+(4)01. Incêndio Criminoso
+Constitui um crime sujeito a uma sentença de 5 a 60 minutos de prisão.
+1. Ação intencional e maliciosa de provocar fogo, queimar ou auxiliar na queima de estruturas, áreas florestais ou propriedades, sem autorização legal.
+
+
+(4)02. Arrombamento
+Constitui um crime sujeito a uma sentença de 5 a 30 minutos de prisão.
+1. Refere-se à invasão ilegal e não autorizada de estruturas comerciais ou residenciais desocupadas, seja propriedade pública ou privada, com o objetivo de obter itens de forma ilícita ou cometer um crime no local.
+
+
+(4)03. Invasão de Domicílio
+Constitui um crime sujeito a uma sentença de 5 a 40 minutos de prisão.
+1. Invasão de residências ocupadas, sabendo ou não se há pessoas presentes, com o objetivo de obter itens de forma ilícita ou cometer um crime no local.
+2. Violação da privacidade, sigilo das comunicações ou intimidade de seus usuários, sem autorização judicial.
+
+
+(4)04. Roubo Majorado
+Constitui um crime sujeito a uma sentença de 15 a 60 minutos de prisão.
+1. Apropriação ilegal, roubo, transporte ou remoção de propriedade pessoal de outra pessoa ou organização no valor de US$5.501 ou mais.
+2. Não remuneração intencional por serviços prestados no valor de US$5.501 ou mais.
+
+
+(4)05. Roubo Minorado
+Constitui um crime sujeito a uma sentença de 5 a 40 minutos de prisão.
+1. Apropriação ilegal, roubo, transporte ou remoção de propriedade pessoal de outra pessoa ou organização no valor de US$5.500 ou menos.
+2. A não remuneração intencional por serviços prestados no valor de US$5.500 ou menos.
+
+
+________________
+(4)06. Roubo de Veículo
+Constitui um crime sujeito a uma sentença de 5 a 40 minutos de prisão.
+1. Ato de roubar, tentar roubar, conduzir ou utilizar o veículo de outra pessoa sem permissão.
+2. O arrombamento de veículos estacionados, com ou sem tentativa de roubo do próprio veículo.
+
+
+(4)07. Roubo de Arma de Fogo
+Constitui um crime sujeito a uma sentença de 10 a 40 minutos de prisão.
+1. Refere-se ao roubo de qualquer arma de fogo registrada, independentemente de seu valor.
+
+
+(4)08. Posse de Ferramentas de Invasão
+Constitui uma contravenção sujeita a uma sentença de 5 a 100 minutos de prisão ou de multa no valor de US$1.650.
+1. Posse de instrumentos, tais como gazua, pé de cabra, chave de fenda, broca, lima, alicate ou qualquer outra ferramenta, quando essa posse está acompanhada de circunstâncias que permitam identificar a intenção subjacente de utilizá-los para cometer invasões ilegais.
+
+
+(4)09. Receptação
+Constitui uma contravenção sujeita a uma sentença de 10 a 40 minutos de prisão.
+1. Refere-se à compra ou recebimento de propriedade que tenha sido roubada ou adquirida de forma ilícita, conhecendo a situação ou tendo conhecimento de que a propriedade seja provavelmente de origem criminosa, mas preferindo ignorar.
+
+
+(4)10. Invasão
+Constitui uma contravenção sujeita a uma sentença de 20 a 50 minutos de prisão ou de multa no valor de US$2.000.
+1. Refere-se à entrada em propriedade alheia com a intenção de interferir ou obstruir atividades comerciais em andamento, ou à ocupação de propriedade privada sem permissão, ou à recusa em deixar a propriedade privada após ser solicitado por proprietário, gerente, residente ou funcionário.
+
+
+(4)11. Vandalismo
+Constitui uma contravenção sujeita a uma sentença de 10 a 50 minutos de prisão, além de multa no valor de US$2.500.
+1. Refere-se a qualquer ato de desfiguração, dano ou destruição de propriedade alheia, excluindo incêndios.
+(4)12. Peculato
+Constitui uma contravenção, com sentença específica para variantes da violação.
+1. Situações em que há uma relação de confiança ou fiduciária entre o infrator e uma organização privada ou órgão governamental (estadual ou local):
+   1. Apropriação ilegal de propriedade sob sua posse ou cuidado devido ao emprego.
+   2. Engajamento sistemático em conduta fraudulenta que envolve a conversão ou apropriação indevida de propriedade para uso pessoal.
+   3. Atuação com a intenção de privar o proprietário do uso da propriedade.
+(4)12-A. Quando o valor total da propriedade não excede US$30.000, está sujeita a uma sentença de 20 a 100 minutos de prisão.
+(4)12-B. Quando o valor total da propriedade excede US$30.000, está sujeita a uma sentença de 60 a 300 minutos de prisão.
+________________
+
+
+TÍTULO 5. DOS CRIMES CONTRA A DECÊNCIA PÚBLICA
+(5)01. Exposição Indecente
+Constitui uma contravenção sujeita a uma sentença de 10 a 60 minutos de prisão ou de multa no valor de US$20.000.
+1. Qualquer indivíduo que exiba deliberada e lascivamente seu corpo ou partes íntimas em espaços públicos ou em locais onde haja presença de outras pessoas.
+
+
+(5)02. Conduta Obscena ou Dissoluta em Público
+Constitui uma contravenção sujeita a uma sentença de 20 a 100 minutos de prisão ou de multa no valor de US$20.000.
+1. Qualquer pessoa que solicite ou participe de comportamento obsceno, dissoluto ou inadequado em locais públicos ou em áreas abertas ao público e expostas à visão do público.
+
+
+(5)03. Prostituição
+Constitui uma contravenção sujeita a uma sentença de 15 a 40 minutos de prisão.
+1. Qualquer pessoa que encoraje ou convença outra pessoa a se envolver em atividades sexuais em troca de dinheiro, seja como agente atuante ou cliente.
+
+
+(5)04. Rufianismo
+Constitui um crime sujeito a uma sentença de 40 a 100 minutos de prisão.
+1. Qualquer pessoa que encoraje ou convença outra pessoa a se envolver em atividades sexuais em troca de dinheiro, seja como prostituta ou cliente.
+
+
+(5)05. Perseguição
+Constitui uma contravenção sujeita a uma sentença de 15 a 40 minutos de prisão.
+1. Qualquer pessoa que siga deliberada, maliciosa e repetidamente outra pessoa, causando temor razoável em relação à segurança dessa pessoa ou de sua família, ao assediar intencionalmente ou fazer ameaças críveis.
+
+
+(5)06. Fraude em Jogos
+Constitui uma contravenção sujeita a uma sentença de 15 a 90 minutos de prisão.
+1. Qualquer pessoa que, por meio de dispositivos, truques, enganos  ou outros meios, obtenha fraudulentamente dinheiro ou propriedade de outra pessoa durante jogos ou apostas, seja por meio de cartas ou outros instrumentos.
+
+
+________________
+(5)07. Abuso Infantil
+Constitui um crime sujeito a uma sentença de 80 a 160 minutos de prisão.
+1. Qualquer pessoa que intencionalmente infligir punição corporal cruel ou desumana, causar lesões traumáticas ou colocar uma criança em situação que possa resultar em danos físicos graves, ou causar danos ou lesões menores a uma criança com menos de 18 anos.
+(( Este crime é mencionado apenas para fins informativos e interpretativos como background para histórias de personagens, ele não é permitido no servidor, sem possibilidade de interpretação de papéis. ))
+
+
+(5)08. Negligência Infantil
+Constitui um crime sujeito a uma sentença de 20 a 120 minutos de prisão.
+1. Qualquer pessoa que falhe em fornecer as necessidades físicas básicas, como roupas, comida, abrigo, cuidados médicos ou outros cuidados adequados, a um filho menor sem justificativa legal.
+
+
+(5)09. Venda de Álcool / Tabaco para um Menor
+Constitui uma infração sujeita a uma multa de US$15.000.
+1. Qualquer pessoa que venda deliberadamente e conscientemente álcool e/ou tabaco a um indivíduo com menos de 18 anos.
+(( Este crime é mencionado apenas para fins informativos e interpretativos como background para histórias de personagens, ele não é permitido no servidor, sem possibilidade de interpretação de papéis. ))
+
+
+(5)10. Violação de Álcool / Tabaco por um Menor
+Constitui uma contravenção sujeita a uma sentença de 10 a 30 minutos de prisão.
+1. Qualquer pessoa com menos de 18 anos que esteja em posse de álcool, produtos à base de álcool ou aparente estar sob a influência de álcool ou qualquer produto à base de tabaco.
+(( Este crime é mencionado apenas para fins informativos e interpretativos como background para histórias de personagens, ele não é permitido no servidor, sem possibilidade de interpretação de papéis. ))
+
+
+(5)11. Abuso Animal
+Constitui um crime sujeito a uma sentença de 20 a 80 minutos de prisão.
+1. Qualquer pessoa que maliciosamente e intencionalmente machuque, mutila, torture, agrida, fira ou mate um animal vivo, ou que possua um animal de estimação que não seja considerado domesticado e seguro para o animal ou o dono.
+
+
+
+
+
+
+
+
+(5)12. Exercício Ilegal da Profissão
+Constitui um crime sujeito a uma sentença de 20 a 200 minutos de prisão.
+1. Uma pessoa que se identifica como detentora de uma licença para prática da medicina, verbalmente ou por meios implícitos, e que não recebeu treinamento adequado para fazê-lo.
+2. Uma pessoa que realiza ou presta serviços médicos e comete negligência criminosa, acidente criminoso ou tem intenção de causar danos a um indivíduo.
+3. Uma pessoa que exerce ou provê qualquer serviço médico não licenciado ou permitido por órgão competente após ser notificada explicitamente para descontinuar a atividade no estado de San Andreas.
+4. Uma pessoa que anuncia ou se apresenta como jurista ou com direito de exercer a advocacia sem ser um membro ativo da Ordem dos Advogados de San Andreas.
+________________
+
+
+TÍTULO 6. DOS CRIMES CONTRA A SAÚDE E SEGURANÇA PÚBLICA
+(6)01. Manufatura de Substância Ilícita
+Constitui um crime sujeito a uma sentença de 20 a 80 minutos de prisão.
+1. Qualquer indivíduo que produza, componha, converta, fabrique, derive, processe ou prepare qualquer substância proibida, seja por meio de produtos químicos ou extração da natureza, sem as devidas autorizações. A penalidade geral será determinada pela classificação mais alta da substância fabricada.
+
+
+(6)02. Posse de Substância Controlada
+Constitui uma infração sujeita a uma multa de US$2.000.
+1. Qualquer pessoa que esteja em posse de uma ou várias substâncias controladas, exceto nos casos em que haja prescrição ou dispensação direta por parte de um profissional licenciado pelo estado para prescrever, dispensar ou administrar substâncias controladas. Isso se aplica a quantidades inferiores a 10 gramas. A penalidade geral será determinada pela classificação mais alta da substância em posse.
+
+
+(6)03. Posse de Substância Controlada com Intenção de Distribuição
+Constitui uma contravenção sujeita a uma sentença de 15 a 40 minutos de prisão.
+1. Qualquer pessoa que esteja em posse de uma ou várias substâncias controladas com a intenção de distribuí-las, entregá-las ou vendê-las. Isso se aplica automaticamente a quantidades iguais ou superiores a 10 gramas, independentemente da intenção. A penalidade geral será determinada pela classificação mais alta da substância em posse.
+
+
+(6)04. Comércio Ilegal de Substância Controlada
+Constitui um crime sujeito a uma sentença de 20 a 80 minutos de prisão.
+1. Qualquer pessoa que comercialize, de forma consciente e ilegal, uma ou mais preparações, compostos ou misturas que contenham substâncias controladas. A penalidade geral será determinada pela classificação mais alta da substância em posse.
+
+
+(6)05. Contrabando de Drogas
+Constitui um crime sujeito a uma sentença de 10 a 100 minutos de prisão.
+1. Qualquer pessoa que tente ou consiga transportar, exportar, armazenar ou ocultar substâncias controladas em sua pessoa ou em uma propriedade, em quantidades superiores a 20 gramas, independentemente da intenção. A penalidade geral será determinada pela classificação mais alta da substância em posse.
+________________
+(6)06. Tráfico de Drogas
+Constitui um crime sujeito a uma sentença de 35 a 120 minutos de prisão.
+1. Qualquer pessoa que tente ou consiga transportar, importar ou exportar uma ou várias substâncias controladas em sua pessoa ou em uma propriedade, em quantidades superiores a 40 gramas, independentemente da intenção. A penalidade geral será determinada pela classificação mais alta da substância em posse.
+
+
+(6)07. Posse de Artefato para Consumo de Drogas
+Constitui uma infração sujeita a uma multa de US$5.000.
+1. Qualquer indivíduo que esteja ciente de estar em posse de qualquer dispositivo, instrumento ou artefato utilizado ou destinado ao consumo ilegal de substâncias ilícitas, seja por via intravenosa ou inalação.
+(6)07-A. Se o dispositivo ou instrumento for utilizado na prática de um crime previsto no artigo (6)05. Contrabando de Drogas ou crime previsto no artigo (6)06. Tráfico de Drogas, constitui uma contravenção sujeita a uma sentença de 30 a 80 minutos de prisão.
+
+
+(6)08. Porte Velado de Arma Branca
+Constitui uma contravenção sujeita a uma sentença de 10 a 30 minutos de prisão.
+1. Qualquer pessoa que portar de forma oculta ou dissimulada uma arma branca laminada, cortante, perfurante ou similares, com indícios de que pretende usá-la contra terceiros.
+
+
+(6)09. Violação de Confidencialidade
+Constitui um crime sujeito a uma sentença de 40 a 120 minutos de prisão.
+1. Qualquer pessoa que se envolver ilegalmente em escutas telefônicas, gravações mecânicas de conversas, interceptação ou acesso a comunicações eletrônicas.
+2. Qualquer pessoa que, sem autorização expressa, acesse, utilize ou interfira nos dispositivos eletrônicos de comunicação de outra pessoa, incluindo mas não se limitando a celulares, computadores, e-mails, aplicativos ou qualquer outro meio de comunicação eletrônica.
+
+
+(6)10. Obstrução Facial
+Constitui uma contravenção sujeita a uma sentença de 10 a 30 minutos de prisão.
+1. Qualquer pessoa que obstruir ou ocultar seu rosto durante a prática de um crime ou antes de tal prática, havendo indícios substanciais de que o crime ocorreria.
+
+
+________________
+(6)11. Violação do Código de Incêndio
+Constitui uma infração sujeita a uma multa de US$35.000.
+1. Qualquer violação do Código de Incêndio estabelecido pelo State Fire Marshal.
+(6)12. Descarte Inadequado
+Constitui uma infração sujeita a uma multa de US$1.200.
+1. Qualquer pessoa que descartar, jogar ou espalhar lixo ou resíduos em local impróprio, seja em público ou em propriedade privada que não seja sua própria.
+
+
+(6)13. Posse de Arma de Fogo Não Autorizada
+Constitui uma contravenção, com sentença específica para variantes da violação.
+1. Portar uma arma de fogo consigo, em seu veículo, local de trabalho ou em qualquer estabelecimento privado sem a documentação adequada ou sem o conhecimento ou consentimento (implícito ou explícito) de um indivíduo autorizado dentro do veículo, local de trabalho ou estabelecimento privado que possua tal autorização. Isso também se aplica a armas de fogo sem um número de série válido.
+(6)13-A. Posse de Arma de Fogo Não Autorizada Classe I
+Sentença de 30 a 60 minutos de prisão.
+1. Pistolas e SMGs
+(6)13-B. Posse de Arma de Fogo Não Autorizada Classe II
+Sentença de 60 a 90 minutos de prisão.
+1. Shotguns e Rifles de Assalto
+
+
+(6)14. Posse Ilegal de Arma de Fogo
+Constitui um crime, com sentença específica para variantes da violação.
+1. Qualquer pessoa que possua uma arma de fogo proibida pela lei estadual ou federal, faça uso de modificações ilegais em sua arma, ou possua armas de fogo que são proibidas de entrar, serem vendidas ou transportadas para o estado de San Andreas sem a autorização adequada.
+(6)14-A. Posse Ilegal de Armamento Classe III
+Sentença de 60 a 120 minutos de prisão.
+1. LMGs e Armas Químicas
+(6)14-B. Posse Ilegal de Armamento Classe IV
+Sentença de 100 a 300 minutos de prisão.
+1. Rifles de Precisão e Armas Pesadas
+________________
+(6)15. Posse Agravada de Arma de Fogo
+Constitui um crime sujeito a uma sentença de 60 a 180 minutos de prisão.
+1. Qualquer pessoa que esteja em posse de mais de cinco armas de fogo não licenciadas, consigo, em seu veículo, local de trabalho ou em outro estabelecimento privado, ou mais de três armas de fogo proibidas de acordo com o artigo.
+
+
+(6)16. Posse de Dispositivo Incendiário ou Explosivo
+Constitui um crime sujeito a uma sentença de 80 a 160 minutos de prisão.
+1. Qualquer pessoa que possua qualquer dispositivo incendiário ou explosivo proibido pela lei estadual ou federal, ou possua dispositivos que são proibidos de entrar, serem vendidos ou transportados para o estado de San Andreas sem a autorização adequada.
+
+
+(6)17. Venda Não Licenciada de Arma de Fogo ou Explosivo
+Constitui um crime sujeito a uma sentença de 20 a 300 minutos de prisão.
+1. Qualquer pessoa que venda, dê ou compre ilegalmente armas de fogo, explosivos, dispositivos incendiários ou qualquer outro dispositivo similar ou improvisado de qualquer tipo sem as autorizações ou permissões adequadas.
+
+
+(6)18. Porte Ostensivo de Armamento
+Constitui um crime sujeito a uma sentença de 20 a 60 minutos de prisão.
+1. Qualquer pessoa que, a menos que em legítima defesa, durante a presença de outros, exiba, segure, aponte ou brande uma arma branca, arma de fogo ou objeto similar de maneira ameaçadora, exaltada ou intimidadora, esteja ela carregada ou descarregada, com o objetivo de causar medo em outras pessoas.
+
+
+(6)19. Disparo de Arma de Fogo
+Constitui um crime sujeito a uma sentença de 20 a 80 minutos de prisão.
+1. Qualquer pessoa que dispare intencionalmente uma arma de fogo, exceto quando em veículo, colocando vidas em risco e causando danos físicos ou risco de danos físicos a outras pessoas.
+
+
+(6)20. Disparo de Arma de Fogo de Dentro de um Veículo
+Constitui um crime sujeito a uma sentença de 30 a 120 minutos de prisão.
+1. Qualquer motorista ou proprietário de um veículo que permita conscientemente que qualquer outra pessoa dispare uma arma de fogo dentro de um veículo motorizado.
+2. Qualquer pessoa que dispare intencionalmente uma arma de fogo dentro de um veículo motorizado.
+
+
+(6)21. Manuseio Imprudente de Arma de Fogo
+Constitui uma contravenção sujeita a uma sentença de 10 a 60 minutos de prisão.
+1. Qualquer pessoa que manuseie negligentemente uma arma de fogo de forma a colocar em risco a vida, integridade física ou propriedade de outra pessoa.
+2. Qualquer pessoa que porte ou transporte uma arma de fogo enquanto estiver sob a influência de maconha, narcóticos, alucinógenos ou qualquer outra substância controlada, ou que exceda 0.08% de teor alcoólico no sangue.
+
+
+(6)22. Posse de Arma de Fogo por Criminoso Condenado
+Constitui um crime sujeito a uma sentença de 30 a 120 minutos de prisão.
+1. Qualquer pessoa que porte ou possua uma arma de fogo em sua pessoa, veículo, local de trabalho ou outro estabelecimento que seja de sua propriedade ou que estejam diretamente sob sua administração, sendo um criminoso condenado por um crime conforme as leis dos Estados Unidos ou do estado de San Andreas.
+
+
+(6)23. Caça Ilegal
+Constitui um crime sujeito a uma sentença de 20 a 60 minutos de prisão e revogação da licença de caça.
+1. Qualquer pessoa que, tendo sido proibida por lei ou por falta de licença adequada, capture, cace, pesque ou persiga animais selvagens protegidos ou em áreas designadas, infringindo as regulamentações de caça estabelecidas pelas autoridades competentes.
+2. Qualquer pessoa que faça uso imprudente ou ilegítimo de uma licença de caça válida, violando as condições ou restrições estabelecidas na licença durante a prática da atividade de caça.
+
+
+________________
+
+
+TÍTULO 7. DAS VIOLAÇÕES DE TRÂNSITO
+(7)00. Das Limitações
+1. Nenhum indivíduo pode receber mais de três avisos na licença de motorista, equivalentes a uma revogação de licença única, por incidente de lei rodoviária.
+2. Os artigos tipificados no TÍTULO 7. DAS VIOLAÇÕES DE TRÂNSITO acarretam uma punição apenas, independentemente do número de infrações cometidas. (( Ex: Se furar 3 semáforos irá ser multado apenas 1 vez ))
+3. Um oficial da lei tem direito a uma inspeção externa de um veículo, bem como a verificação de toda a documentação, licenças, inscrições e outros documentos durante uma parada de trânsito. Uma inspeção completa do veículo é permitida com uma mandado de busca ou fundada suspeita.
+4. Pontos de verificação, controles de fronteira e outras operações policiais em estradas públicas devem ter um objetivo documentado, registro documentado de operações e existir temporariamente em resposta a (ou em preparação para) um incidente particular, feriados, etc.
+5. Uso de Luzes de Emergência e Sinais Sonoros
+   1. Fica restrito o uso de luzes de emergência (em coloração vermelha e azul, somente vermelha ou somente azul, em qualquer padrão de exibição) e sinais sonoros a veículos designados e autorizados para serviços de emergência.
+   2. A ativação de luzes de emergência e sinais sonoros por veículos não autorizados é considerada uma violação deste código e sujeita o infrator a penalidades.
+   3. Situações excepcionais onde um cidadão civil utilize luzes de emergência e sinais sonoros para preservar a própria vida ou de outros devem ser justificadas e comprovadas mediante revisão e investigação das autoridades competentes. O uso inadequado ou injustificado será passível de sanções legais.
+   4. Veículos registrados e utilizados para serviços especiais, tais como segurança privada, podem fazer uso de iluminação amarela e branca, somente branca, somente amarela, somente laranja ou laranja e branca, em qualquer padrão de exibição.
+
+
+________________
+(7)01. Condução Sem Licença Válida
+Constitui uma infração sujeita a uma sentença de 10 a 100 minutos de prisão, multa de US$2.500 e apreensão do veículo por 30 minutos.
+1. Dirigir um veículo automotor em via pública sem possuir uma habilitação válida para o tipo veicular.
+
+
+(7)02. Condução Com Licença Suspensa
+Constitui uma infração sujeita a uma sentença de 10 a 100 minutos de prisão, multa de US$5.000 e apreensão do veículo por 60 minutos.
+1. Dirigir um veículo automotor em via pública com a habilitação suspensa ou cassada.
+
+
+(7)03. Omissão De Socorro
+Constitui uma contravenção sujeita a uma sentença de 20 a 120 minutos de prisão.
+1. O condutor de um veículo deixa de prestar socorro imediato à vítima em caso de acidente de trânsito, ou, caso não seja possível prestar socorro diretamente por motivo justificável, deixa de solicitar auxílio das autoridades públicas. Isso inclui omissão mesmo quando a vítima faleceu instantaneamente ou possui ferimentos leves.
+2. O condutor afasta-se do local do acidente de trânsito para evitar responsabilidades.
+
+
+(7)04. Direção Perigosa
+Constitui uma contravenção sujeita a uma sentença de 10 a 100 minutos de prisão, multa de US$5.000 e suspensão da licença de condução veicular por 70 minutos.
+1. Conduzir um veículo sem cuidado ou cautela, demonstrando desrespeito flagrante pela segurança de outras pessoas, agindo de maneira grosseiramente negligente e colocando em risco a vida, a integridade física ou a propriedade de qualquer pessoa.
+
+
+(7)05. Direção Perigosa De Veículo Terrestre Ou Naval
+Constitui uma contravenção sujeita a uma sentença de 10 a 100 minutos de prisão, multa de US$5.000 e suspensão da licença de condução veicular por 70 minutos.
+1. Uso imprudente ou descuidado de um veículo terrestre ou naval, seja intencionalmente ou não, criando risco de causar ferimentos. Isso inclui veículos como ATVs, carros de golfe, barcos e embarcações navais, ou qualquer outro equipamento terrestre que não seja destinado a ser conduzido em estradas.
+
+
+
+
+
+
+
+
+(7)06. Excesso de Velocidade
+Constitui uma infração sujeita a multa de US$2.000.
+1. Em todos os momentos e em qualquer local oficial, incluindo rodovias estaduais, municipais e estradas locais, os motoristas devem respeitar os seguintes limites de velocidade:
+   1. 100 milhas por hora (160 km/h) em rodovias;
+   2. 75 milhas por hora (120 km/h) em estradas municipais fora dos limites da cidade;
+   3. 60 milhas por hora (96 km/h) em estradas dentro dos limites da cidade;
+   4. 45 milhas por hora (72 km/h) em estradas designadas como "Parque Estadual" ou "Zona de Caça";
+   5. 45 milhas por hora (72 km/h) em zonas escolares e universitárias.
+
+
+(7)07. Desrespeito aos Dispositivos de Tráfego
+Constitui uma infração sujeita a multa de US$2.500.
+1. Não obedecer aos dispositivos de controle de tráfego, tais como:
+   1. Não ceder a um veículo de emergência com luzes de emergência visíveis e sirenes sonoras.
+   2. Cruzar uma linha amarela dupla, a menos que esteja entrando ou saindo de um estacionamento ou garagem.
+   3. Ignorar sinais de trânsito, bloqueios de estradas, sinais manuais ou outros equipamentos utilizados pelas autoridades para direcionar o tráfego.
+2. É permitido ignorar semáforos desde que o veículo realize uma parada completa antes de cruzar a via.
+
+
+(7)08. Estacionamento Irregular
+Constitui uma infração sujeita a multa de US$5.000.
+1. Qualquer veículo estacionado de forma irregular, como em:
+   1. Obstrução de faixas de tráfego, impedindo o fluxo adequado de veículos;
+   2. Bloqueio de entradas de automóveis, estradas privadas, caminhos ou becos, impedindo a entrada ou saída de veículos;
+   3. Obstrução de estacionamentos, impedindo a entrada ou saída de veículos;
+   4. Sobre faixas de pedestres demarcadas;
+   5. Calçadas, obstruindo o tráfego de pedestres ou em canteiros centrais;
+   6. Pontes;
+   7. Túneis;
+   8. Acostamentos de rodovias, exceto em casos de emergência;
+   9. Sobre trilhos ferroviários, quando há risco de colisão com trens;
+   10. Ocupação de duas vagas de estacionamento com um único veículo;
+   11. Estacionamento de mais de duas motocicletas lado a lado em uma vaga, a menos que o estacionamento seja amplo o suficiente para comportar as duas motocicletas;
+   12. Estacionamento em vagas reservadas para deficientes físicos sem a devida autorização de identificação.
+
+
+(7)09. Estacionamento Ilegal
+Constitui uma infração sujeita a multa de US$10.000, além de apreensão do veículo por 30 minutos.
+1. Qualquer veículo estacionado de forma ilegal, como em:
+   1. Contramão;
+   2. Ao lado de meio-fio vermelho, exceto veículos de emergência com luzes de prioridade ativas;
+   3. Em frente a hidrantes, a menos de um metro e meio de distância, independentemente de o veículo estar ocupado ou não;
+   4. Em ou próximo a heliportos ou zonas de pouso de aeronaves, quando o veículo não é aéreo;
+
+
+(7)10. Violação de Veículos Ruidosos
+Constitui uma infração sujeita a multa de US$1.000.
+1. Conduzir veículo emitindo ruído excessivo através do uso desnecessário da buzina ou da reprodução de música alta, sem considerar a poluição sonora.
+
+
+(7)11. Operação Negligente de um Veículo
+Constitui uma infração sujeita a multa de US$3.000.
+1. Qualquer pessoa que opere um veículo de forma negligente, colocando em risco a integridade física de outras pessoas ou causando danos a outros veículos ou indivíduos. Exemplos disso incluem o uso de mensagens de texto durante a condução, dirigir sem acender as luzes no período entre o pôr do sol e o nascer do sol (os faróis devem ser utilizados entre as 18h00 e as 6h00).
+
+
+(7)12. Uso Ilegal de Equipamento Hidráulico
+Constitui uma infração sujeita a multa de US$5.000, além de apreensão do veículo por 20 minutos.
+1. Operar um veículo equipado com sistema hidráulico instalado no chassi ou em outros componentes do veículo, sem a necessidade ou finalidade legítima desse equipamento (como uma empilhadeira), não pode utilizar tal sistema hidráulico em estradas estaduais, municipais ou locais.
+
+
+(7)13. Vidros com Coloração Irregular
+Constitui uma infração sujeita a multa de US$3.000, além de apreensão do veículo por 10 minutos.
+1. Operar um veículo e utilizar irregularmente películas ou persianas nas janelas (de nível 1 ou 2), resultando em dificuldade de identificar o condutor do veículo.
+
+
+
+
+
+
+(7)14. Condução sob Influência de Álcool ou Drogas
+Constitui uma contravenção sujeita a uma sentença de 10 a 100 minutos de prisão e suspensão da licença de condução veicular por 70 minutos.
+1. Dirigir ou operar um veículo ou máquina sob a influência de álcool acima do limite legal de 0,08% BAC ou sob a influência de drogas que afetem o desempenho, independentemente de essas drogas serem legais ou ilegais.
+
+
+(7)15. Competição de Veículos Motorizados
+Constitui uma contravenção sujeita a uma sentença de 10 a 100 minutos de prisão, multa de US$5.000 e suspensão da licença de condução veicular por 70 minutos.
+1. Realizar corridas ou competições não licenciadas ou não autorizadas em estradas ou vias pavimentadas da cidade, condado ou estado, que incentivem a ocorrência de outras infrações ou representem um perigo potencial.
+
+
+(7)16. Perigo Veicular
+Constitui um crime sujeito a uma sentença de 35 a 120 minutos de prisão, além de multa de US$10.000.
+1. Operar um veículo causando perigo grave, dano físico real ou risco de dano físico a pedestres, ou dirija de maneira que coloque o público em risco grave.
+
+
+(7)17. Atravessar a Via de Forma Perigosa
+Constitui uma infração sujeita a multa de US$1.000.
+1. Qualquer pessoa que, intencionalmente ou de forma imprudente, atravessar uma via como pedestre de maneira que crie um risco previsível de obstrução do fluxo de tráfego ou de outra forma representa um perigo para os usuários da via.
+
+
+(7)18. Posse de Recipiente Aberto
+Constitui uma infração sujeita a multa de US$3.000.
+1. Qualquer pessoa que possua recipientes abertos contendo bebidas alcoólicas ou qualquer substância que altere o desempenho durante a condução de um veículo.
+
+
+(7)19. Falha no Uso de Cinto/Equipamento de Segurança
+Constitui uma infração sujeita a multa de US$2.000.
+1. Qualquer pessoa que, ao conduzir um veículo motorizado, não utilize o cinto de segurança de maneira adequada ou não cumpra os padrões de segurança no trânsito ao conduzir veículos como motocicletas, quadriciclos e outros veículos motorizados sem capacete ou outro equipamento de segurança adequado.
+
+
+
+
+(7)20. Operação de Veículo Motorizado em Condições Inseguras
+Constitui uma infração sujeita a multa de US$5.000 e apreensão do veículo por 20 minutos.
+1. Conduzir ou mover um veículo motorizado, motocicleta ou combinação de veículos em vias públicas em condições inseguras que representem risco para qualquer pessoa ou propriedade, resultem em danos estruturais substanciais ou que não estejam equipados com luzes, freios, direção e outros equipamentos em bom estado.
+
+
+(7)21. Operação de Veículo Motorizado Não Registrado ou sem Identificação
+Constitui uma infração sujeita a multa de US$3.000, suspensão da licença de condução veicular por 30 minutos e apreensão do veículo por 10 minutos.
+1. Dirigir, movimentar ou sair em uma via pública utilizando um veículo motorizado não registrado ou que não exiba placa de identificação, ou que deixe de pagar o seguro veicular dentro do prazo estabelecido por lei.
+
+
+(7)22. Operar uma Aeronave sem Licença
+Constitui uma contravenção sujeita a uma sentença de 20 a 50 minutos de prisão, multa de US$30.000.
+1. Qualquer pessoa que opere qualquer tipo de aeronave sem uma licença apropriada.
+
+
+(7)23. Operar uma Aeronave em Risco à Vida
+Constitui um crime sujeito a uma sentença de 35 a 120 minutos de prisão, além de multa de US$70.000 e revogação da licença de pilotagem.
+1. Colocar em risco a vida por meio da operação de uma aeronave, como voar em baixa altitude em área urbana ou suburbana, realizar manobras aéreas de forma negligente.
+
+
+(7)24. Falha em Obedecer aos Protocolos do ATC
+Constitui um crime sujeito a uma sentença de 10 a 80 minutos de prisão, além de multa de US$50.000 e suspensão da licença de pilotagem.
+1. Qualquer pessoa que, ao operar uma aeronave, deixe de obedecer aos protocolos do ATC (Controle de Tráfego Aéreo) e seus comandos.
+
+
+(7)25. Evasão Aérea
+Constitui um crime sujeito a uma sentença de 60 a 200 minutos de prisão, além de multa de US$150.000, revogação da licença de pilotagem e apreensão da aeronave por 120 minutos.
+1. Evadir de um oficial de paz utilizando uma aeronave, seja como piloto, copiloto ou passageiro.
+
+
+(7)26. Operação Negligente de uma Bicicleta
+Constitui uma infração sujeita a multa de US$2.000,
+1. Qualquer pessoa que conduza uma bicicleta de forma que provavelmente cause danos materiais ou lesões a outros usuários da via ou pedestres estará cometendo.
+
+
+(7)27. Operação de Veículo Não Autorizado
+Constitui uma infração sujeita a multa de US$7.000, suspensão da licença de condução veicular por 30 minutos e apreensão do veículo por 15 minutos,
+1. Qualquer pessoa envolvida na operação ou uso ilegal de um veículo impróprio na praia.
+2. Qualquer pessoa envolvida na operação ou uso ilegal de um veículo com dispositivos sonoros ou luminosos em desacordo com (7)00. Das Limitações.
+________________
+
+
+TÍTULO 8. DA POLÍTICA DE CÓDIGO
+(8)01. Erro de Fato
+1. Se uma pessoa acusada de um crime alegar, e apresentar provas, de que agiu honestamente embora tenha cometido uma contravenção por circunstâncias adversas, na convicção de que não estava violando a lei ou não entendia que a lei que foi violada.
+2. Em qualquer outro caso, pode reduzir a punição por uma infração a critério do oficial ou de um juiz quando em processo criminal.
+
+
+(8)02. Intoxicação Involuntária
+1. Aquele que, sob efeito de substâncias psicoativas, comete crime não pode ser acusado por não possuir plena consciência de seus atos. Essa prática de defesa necessita de provas devidamente fundamentadas de que o agente foi intoxicado pela ação de terceiros e o cometimento do crime aconteceu de maneira inconsciente.
+
+
+(8)03. Legítima Defesa
+1. Uma pessoa que usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem é absolvida de responsabilidade criminal se apresentar provas.
+2. Isso também se aplica no caso de uma pessoa que está protegendo sua casa de perigo iminente ou roubo quando em propriedade privada.
+3. A legítima defesa não pode ser aplicada em casos de violência de gangues em que ambas as partes possuem filiações.
+
+
+(8)04. Armadilha
+1. Uma pessoa que cometeu um crime, seja pelo assédio, ameaças ou coerção para fazê-lo por agentes da lei, não pode ser considerada culpada do crime em que foi persuadida a cometer.
+(8)05. Coação
+1. Uma pessoa que por força de coação, ameaça de autoridade superior ou por violenta emoção comete um crime não poderá ser acusada deste. Que fique provado o cometimento do crime sob essas circunstâncias.
+
+
+(8)06. Exclusões de Liberdade Condicional
+1. Uma pessoa culpada de (3)11. Tortura, (3)03. Homicídio Doloso, (3)01. Homicídio Capital, (3)09. Tráfico de Pessoas, (1)02. Espionagem, (1)01. Traição ou (1)03. Terrorismo Doméstico deve ser sempre excluída de qualquer oportunidade de liberdade condicional.
+
+
+
+
+(8)07. Política de Suspeitas
+1. A suspeita justificável de um oficial da lei de uma pessoa cometer ou conspirar para cometer um crime é suficiente para permitir que esse indivíduo seja detido para interrogatório por no máximo 60 minutos pela polícia ou na custódia judicial, no entanto, eles não podem receber nada além de uma revista corporal para a segurança do oficial pela causa provável, a menos que existam provas da contravenção ou fundada suspeita.
+2. Uma pessoa que está na cena de um crime, motim ou grande distúrbio público também pode ser classificada sob a política de suspeita para detenção temporária.
+3. A violação desta política, ou um ato de suspeita justificável que se estende além dos limites legais é suficiente para detenção.
+4. Uma pessoa que não se identifique a um oficial da lei durante a prisão ou a acusação deve ser presa pelo máximo tempo permitido pela lei até que possa ser identificada com sucesso por um oficial da lei ou nos tribunais.
+(8)08. Critério do Oficial
+1. Os agentes da lei devem ter autoridade para usar seu critério ao emitir infrações ou contrair contravenções. Este critério confere ao oficial a possibilidade de renunciar a uma infração ou contravenção penal com base em seu julgamento pessoal.
+2. Os oficiais devem optar por emitir o critério do oficial e renunciar à cobrança, ao invés de emitir uma multa ou outra punição em vez da punição típica.
+3. Os oficiais não podem usar o seu critério se a vítima independente, o dono da propriedade ou a parte afetada optar por manter as acusações sobre o infrator.
+4. Um oficial da lei com cargo superior ao de outro não pode revogar o critério deste uma vez que é emitido, a menos que tenha sido emitido com prejuízo para uma parte que deseja solicitar a punição prevista neste Código.
+
+
+(8)09. Cláusula do Bom Samaritano
+1. Os cidadãos podem realizar uma detenção judicial legal quando um indivíduo cometeu uma infração e o cidadão deseja deter o infrator até que as autoridades competentes possam chegar para apoiar, ajudar ou avaliar a situação.
+2. Os cidadãos podem, a pedido do funcionário do governo, prestar sua assistência na realização de trabalhos governamentais oficiais, desde que não se estendam além dos poderes, deveres, responsabilidades e autoridades desse funcionário do governo.
+3. Os cidadãos podem vir em auxílio de um funcionário do governo que está em coação ou incapacitado durante o seu trabalho para salvar ou proteger sua vida ou ajudar a informar os agentes oficiais.
+________________
+(8)10. Critérios de Prisão e Punição
+1. Somente as violações criminais que se originam do Código Penal de San Andreas podem levar uma pena de contravenção ou pena de prisão com aprisionamento na instalação apropriada do município ou penitenciária estadual.
+2. Todas as pessoas condenadas por mais de 30 minutos de prisão cumprirão a sentença na Bolingbroke Penitentiary. Todas as pessoas condenadas por menos de 30 minutos levarão sua sentença na instalação apropriada municipal.
+3. Cada artigo do Código Penal pode incluir um intervalo de tempo para prisão. Enquanto alguns artigos determinam casos em que o tempo máximo ou mínimo de prisão deve ser usado, em todos os outros casos, o oficial da lei que emite a prisão pode usar seu critério, com base na gravidade, cooperação do suspeito ou outros critérios para decidir o tempo de encarceramento.
+4. O Departamento de Polícia pode estabelecer políticas internas para determinar como os oficiais devem seguir os Critérios de Prisão e Punição, desde que não viole as políticas de punição mínima e máxima estabelecidas neste Código Penal.
+5. Cada tópico em um artigo do Código Penal refere-se a uma taxa aplicável para cada artigo. Violar qualquer uma das descrições é uma violação da entrada do Código Penal.
+6. ((As pessoas que desenvolvem um personagem sem uma mente sadia ainda serão, em qualquer caso, presas e acusadas pelo crime que cometem. Tecnicamente, eles seriam entregues a uma instituição apropriada, mas são levados para a prisão do condado ou do estado local antes de serem enviados para lá. Eles não podem ser colocados com a população prisional regular.))
+(8)11. Prisão Máxima
+1. Um cidadão não pode ser preso por mais de 600 minutos, ainda que seus crimes obriguem uma penalidade superior a este tempo, salvo se houver sentença aprovada por um juiz com participação da promotoria.
+2. O Departamento de Justiça pode autorizar a prisão preventiva por tempo indeterminado, permanecendo nesta condição até que se apurem os fatos alegados. É medida excepcional e aplicável nas seguintes hipóteses:
+   1. Garantia da ordem pública;
+   2. Garantia da ordem econômica;
+   3. Conveniência da instrução criminal;
+   4. Assegurar a aplicação da lei penal.
+________________
+(8)12. Escutas Telefônicas, CCTV e Política de Gravação de Vídeo
+1. Uma pessoa que é descoberta violando as leis de escutas telefônicas está sujeita às penalidades de (1)02. Espionagem.
+2. Os funcionários do governo podem ser registrados por civis em todos os momentos ao executar suas funções em uma capacidade oficial ou quando estão em serviço.
+3. É permitido que um oficial da lei apreenda um equipamento registrador caso nele contenha alguma prova ou indício de algum crime confirmado por uma fundada suspeita.
+4. ((CCTV é considerada acessível quando é originária de dentro e ao redor de todas as instalações públicas, das dashcams de polícia, ou quando for pertencente a um negócio privado que afirma ter câmeras CCTV instaladas. Os CCTV públicos não podem ser adulterados, modificados, roubados ou destruídos.))
+5. ((Os CCTVs nas empresas devem ser explicitamente registrados como existentes na papelada ou com uma licença para serem usados em tribunal ou aceitos legalmente.))
+
+
+(8)13. Política de Exigência e Perseguições
+1. Os oficiais da lei têm autoridade para seguir os suspeitos em propriedades privadas, se diretamente relacionadas a uma perseguição em andamento. A entrada relacionada a investigações ou outros projetos que não perseguem diretamente um suspeito exigem um mandado.
+2. Os oficiais da lei têm autoridade para entrar na área pública de uma instalação privada, como a área pública de um clube ou restaurante, sempre que a instalação está aberta ao público. As áreas privadas da instalação exigem permissão do gerente da instalação ou um mandado.
+3. Os oficiais da lei têm autoridade para entrar em uma instalação para perseguição ou entrar na área pública de uma instalação privada.
+(8)14. Causa Provável e Política de Visão Simples
+1. Os oficiais da lei têm o poder de apreender e registrar evidências sobre qualquer evento que esteja em sua visão simples, desde que eles tenham uma razão legal para estar onde eles estão localizados no momento.
+2. Uma pessoa que dá permissão ao funcionário do governo para ver ou acessar uma instalação, equipamento ou outras áreas está permitindo que um oficial veja uma instalação para buscar provas prováveis ou provas de visão simples.
+3. Causa provável não tem uma definição específica, mas refere-se à premissa em curso de que o "sentido" de um oficial baseado em evidências de visão simples (como o odor de maconha ou outros itens) que implicaram em uma situação provável de criminalidade e autorizam uma revista com base nessa evidência. A causa provável pode ser contestada circunstancialmente em um tribunal de justiça.
+
+
+
+
+
+
+(8)15. Cláusula de Reincidência
+1. Um advogado estatal pode cobrar uma pessoa presa que tenha sido anteriormente condenada por pelo menos um crime, com esta cláusula, o que aumentará o tempo devido por cem por cento (100%) para o reincidente.
+
+
+(8)16. Imunidade
+1. A pedido de um policial e em troca do testemunho de testemunhas, um advogado do estado pode optar por conceder a uma pessoa uma imunidade parcial ou total.
+   1. Uma imunidade total é um tipo de imunidade em que uma pessoa não pode ser cobrada por um crime revelado no seu testemunho.
+   2. Uma imunidade parcial é um tipo de imunidade que garante que o testemunho de uma pessoa não pode ser usado contra ele/ela.
+
+
+(8)17. Prisão Preventiva
+1. A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria.
+2. O juiz poderá conceder medida cautelar diversa da prisão desde que possua motivos suficientes e condizentes para tal.
+3. É possível que o acusado solicite revogação da prisão preventiva e seja liberado da prisão, podendo ou não ser decretado o cumprimento de medidas cautelares diversas da prisão.
+
+
+(8)18. Medidas Cautelares
+1. Será decretado o cumprimento de medidas cautelares diversas da prisão quando não houver aplicação da prisão preventiva.
+2. São medidas cautelares diversas da prisão:
+   1. Proibição de acesso ou frequência a determinados lugares quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado permanecer distante desses locais para evitar o risco de novas infrações;
+   2. Proibição de manter contato com pessoa determinada quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado dela permanecer distante;
+   3. Proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução;
+   4. Recolhimento domiciliar no período noturno e nos dias de folga quando o investigado ou acusado tenha residência e trabalho fixos;
+   5. Monitoração eletrônica.
+   6. Comparecimento periódico em instituições governamentais determinadas em sentença, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades;
+   7. Suspensão da licença de motorista bem como retenção do veículo quando for conveniente ou necessário para a instrução ou investigação.
+
+
+(8)19. Tentativa
+1. Uma pessoa que tenta cometer qualquer crime, mas falha ou é impedida ou interceptada em sua consumação, receberá a mesma punição que se a infração tivesse sido cometida.
+
+
+(8)20. Conspiração
+1. Se duas ou mais pessoas conspirarem para cometer qualquer crime, falsamente e maliciosamente para induzir outro por qualquer crime, ou outro para ser acusado ou preso por qualquer crime, eles serão punidos pela mesma punição que, se a infração tenha sido cometida.
+
+
+(8)21. Solicitação
+1. A pessoa que solicitar à comissão ou a execução de qualquer crime será punida pela mesma punição que se a infração tenha sido cometida.
+
+
+(8)22. Cláusula do Funcionário Público
+1. Qualquer crime cometido conscientemente contra um trabalhador do governo ou funcionário da agência estadual, conforme definido pela Constituição do Estado, punirá o agente com a sentença máxima possível permitida por essa entrada de código particular, a menos que um juiz ordene uma sentença reduzida.
+
+
+(8)23. Violação de Armas
+1. Uma pessoa que comete um crime quando possuir uma arma de fogo deve ter sua permissão de armas de fogo revogada.
+2. Uma pessoa que demonstre uso ilegal ou irresponsável de sua arma de fogo deve obter a suspensão ou revogação de seu porte, dependendo da entrada do código penal da violação de armas de fogo. Se não houver descrição, será de acordo com o critério do oficial.
+3. Se uma pessoa receber duas suspensões de suas armas de fogo, elas devem ter sua permissão revogada imediatamente após o segundo incidente.
+4. Estas políticas de violação também se aplicam, quando apropriado, a licenças e autorizações emitidas para instalações e organizações.
+
+
+(8)24. Cláusula de Cumplicidade Criminal
+1. Uma pessoa que atua como cúmplice, ajudante, conselheiro ou outro papel de apoio aos atos criminosos tentados ou com êxito na ajuda de outra pessoa, receberá metade da punição atribuída à pessoa que tentou ou cometeu atos criminosos bem-sucedidos.
+________________
+(8)25. Acessório
+1. Uma pessoa que conscientemente e voluntariamente ajuda outra pessoa que cometeu com sucesso a um ato criminoso receberá metade da punição emitida para a pessoa que cometeu o ato criminoso.
+2. Exemplos incluem abrigar um fugitivo, ajudar a destruir ou distorcer provas, ou ajudar a pessoa a escapar ou a evitar a custódia policial.
+
+
+
+
+  
+
+San Andreas Government
+	ESTE DOCUMENTO FOI AUTORIZADO E POSSUI CARÁTER DE LEI ATÉ QUE SEJA
+EXPLICITAMENTE REVOGADO

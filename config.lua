@@ -164,7 +164,7 @@ Config.Pagination = {
 
 -- Fine Processing
 Config.Fines = {
-    MaxAmount = 100000,   -- Maximum fine amount ($) to prevent economy exploits
+    MaxAmount = 200000,   -- Maximum fine amount ($) to prevent economy exploits
     CooldownMs = 30000,   -- Anti-spam cooldown between fines (milliseconds)
 }
 
