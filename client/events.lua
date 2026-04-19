@@ -93,3 +93,10 @@ if GetResourceState('baseevents') == 'started' then
         end
     end)
 end
+
+RegisterNetEvent('ps-mdt:client:pushALPR', function(alprData)
+    SendNUIMessage({
+        action = 'push_alpr_scan',
+        data = alprData
+    })
+end)

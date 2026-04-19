@@ -6,6 +6,7 @@ export const MDT_TABS = [
 	{ name: "Cases", icon: "folder" },
 	{ name: "Evidence", icon: "inventory_2" },
 	{ name: "BOLOs", icon: "notification_important" },
+	{ name: "ALPR", icon: "radar" },
 	{ name: "Warrants", icon: "gavel" },
 	{ name: "Vehicles", icon: "directions_car" },
 	{ name: "Weapons", icon: "security" },
@@ -77,7 +78,7 @@ export const NAV_GROUPS: NavGroup[] = [
 	{ id: "operations", label: "Operations", icon: "assignment", tabs: ["Reports", "Cases", "Evidence", "BOLOs", "Warrants"] },
 	{ id: "records", label: "Records", icon: "folder_open", tabs: ["Citizens", "Vehicles", "Weapons", "Charges"] },
 	{ id: "personnel", label: "Personnel", icon: "badge", tabs: ["Roster", "Awards", "IA", "PPR", "FTO", "SOP"] },
-	{ id: "surveillance", label: "Surveillance", icon: "visibility", tabs: ["Map", "Cameras", "Bodycams"] },
+	{ id: "surveillance", label: "Surveillance", icon: "visibility", tabs: ["Map", "Cameras", "Bodycams", "ALPR"] },
 	{ id: "bottom", tabs: ["Preferences", "Settings"] },
 ];
 
@@ -139,6 +140,7 @@ export type ComponentId =
 	| "map"
 	| "cameras"
 	| "bodycams"
+	| "alpr"
 	| "ia"
 	| "ppr"
 	| "fto"
@@ -167,6 +169,7 @@ export const TAB_TO_COMPONENT_MAP: Record<MDTTab, ComponentId> = {
 	Map: "map",
 	Cameras: "cameras",
 	Bodycams: "bodycams",
+	ALPR: "alpr",
 	IA: "ia",
 	PPR: "ppr",
 	FTO: "fto",
@@ -243,6 +246,7 @@ export const COMPONENT_DISPLAY_NAMES: Record<ComponentId, string> = {
 	map: "Map",
 	cameras: "Cameras",
 	bodycams: "Bodycams",
+	alpr: "ALPR History",
 	ia: "Internal Affairs",
 	ppr: "Performance Reviews",
 	fto: "Field Training",

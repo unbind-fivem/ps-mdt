@@ -33,6 +33,7 @@ export const SECURITY_CONFIG = {
 		"BOLOs",
 		"Vehicles",
 		"Weapons",
+		"ALPR",
 		"Cases",
 		"Evidence",
 		"Reports",

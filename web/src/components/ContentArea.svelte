@@ -22,6 +22,7 @@
 	import Evidence from "../pages/Evidence.svelte";
 	import Cameras from "../pages/Cameras.svelte";
 	import Bodycams from "../pages/Bodycams.svelte";
+	import ALPR from "../pages/ALPR.svelte";
 	import Awards from "../pages/Awards.svelte";
 	import IA from "../pages/IA.svelte";
 	import PPR from "../pages/PPR.svelte";
@@ -117,6 +118,7 @@
 		charges: ["charges_view", "charges_edit"],
 		cameras: ["cameras_view"],
 		bodycams: ["bodycams_view"],
+		alpr: [],
 		ia: ["ia_view"],
 		sop: ["sop_view", "sop_manage"],
 		management: ["management_settings", "management_bulletins", "management_activity", "management_permissions", "management_tracking"],
@@ -146,6 +148,7 @@
 			awards: "Awards",
 			cameras: "Cameras",
 			bodycams: "Bodycams",
+			alpr: "ALPR History",
 			management: "Settings",
 			settings: "Preferences",
 		};
@@ -217,6 +220,8 @@
 			<Cameras />
 		{:else if activeComponent === "bodycams"}
 			<Bodycams />
+		{:else if activeComponent === "alpr"}
+			<ALPR />
 		{:else if activeComponent === "ia"}
 			<IA {tabService} {authService} />
 		{:else if activeComponent === "ppr"}

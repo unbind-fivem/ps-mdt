@@ -8,6 +8,8 @@
 	import { queryClient } from "./utils/query-client";
 	import { onMount } from "svelte";
 	import { setupInputDebug } from "./utils/debugInputBlocker";
+	import { useNuiEvent } from "./utils/useNuiEvent";
+	import { alprStore, type ALPRPlate } from "./stores/alprStore";
 
 	let cleanupInputDebug: (() => void) | undefined;
 	let showComplaintForm = $state(false);
@@ -16,6 +18,13 @@
 		if (import.meta.env && import.meta.env.DEV) {
 			cleanupInputDebug = setupInputDebug();
 		}
+		
+		useNuiEvent<ALPRPlate>(
+			"push_alpr_scan",
+			(data: ALPRPlate) => {
+				alprStore.addScan(data);
+			}
+		);
 
 		// Listen for complaint form trigger (outside VisibilityProvider so it works for civilians)
 		const handleMessage = (event: MessageEvent) => {

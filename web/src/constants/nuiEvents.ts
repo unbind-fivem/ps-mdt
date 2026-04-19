@@ -341,6 +341,7 @@ export const ALL_NUI_EVENTS = [
 	"yjsUpdate",
 	"yjsBatch",
 	"pollYjsUpdates",
+	"push_alpr_scan",
 ] as const;
 
 export type WeaponNuiEvents = typeof NUI_EVENTS.WEAPON;

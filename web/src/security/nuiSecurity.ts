@@ -162,7 +162,8 @@ class NuiRateLimit {
 			return true;
 		}
 
-		if (current.count >= this.maxRequestsPerMinute) {
+		const limit = action === "push_alpr_scan" ? 500 : this.maxRequestsPerMinute;
+		if (current.count >= limit) {
 			// Silent rate limiting - don't reveal limits or action names
 			return false;
 		}
