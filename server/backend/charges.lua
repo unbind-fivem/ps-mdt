@@ -21,7 +21,7 @@ ps.registerCallback('ps-mdt:getChargeList', function(source)
                 ELSE 'Uncategorized'
             END AS category
         FROM mdt_penal_codes
-        ORDER BY charge_class, label
+        ORDER BY code ASC
     ]], {})
     ps.debug('[getChargeList] rows', rows and #rows or 0)
     if Config and Config.Debug and rows and rows[1] then
