@@ -182,8 +182,11 @@ Config.CacheTTL = {
 
 -- Tablet Animation
 Config.Animation = {
-    Dict = 'amb@world_human_tourist_map@male@base',
-    Name = 'base',
+    Dict = 'amb@code_human_in_bus_passenger_idles@female@tablet@idle_a',
+    Name = 'idle_a',
+    Bone = 28422,
+    Coords = vector3(0.12, 0.02, 0.0),
+    Rotation = vector3(10.0, 160.0, 0.0),
 }
 
 -- Mugshot Camera
